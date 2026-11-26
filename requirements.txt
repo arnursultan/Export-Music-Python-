@@ -1,0 +1,8 @@
+certifi==2026.11.20
+charset-normalizer==3.5.3
+idna==3.20
+PySocks==1.7.1
+requests==2.34.2
+typing_extensions==4.16.0
+urllib3==2.8.0
+yandex-music==3.2.2

@@ -1,0 +1,3 @@
+[submodule "applemusic-agent-skill"]
+	path = applemusic-agent-skill
+	url = https://github.com/jamiezigelbaum/applemusic-agent-skill.git
